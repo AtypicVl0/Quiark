@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Item DataBase
+  - Tree
+  - Joystick
+  - Ground
+  - Log
+  - NextLvL
+  - Log1
+  - Stone
+  - Food
+  - Screw
+  - Tree1
+  - Stone1
+  - Eat
+  - Screw1
+  - Screw2
+  - GameManager
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - WhatIsGround
+  - Water
+  - UI
+  - WhatIsPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
